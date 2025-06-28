@@ -1,6 +1,6 @@
 # Summer Chores Simulation
 
-This is a simple JavaScript project that utilizes callback functions to simulate a person's summer chore routine.
+This is a simple JavaScript project that simulates a person's summer chore routine.
 
 ## Chores include:
 
@@ -14,7 +14,13 @@ Each chore has the chance to make the person fall asleep after completion, with 
 
 ## How It's Made:
 
-Tech used: JavaScript, Callback functions, VS Code 
+Tech used: JavaScript, VS Code 
+
+## CALLBACK VERSION
+- uses 'setTimeout' and callbacks
+
+## PROMISES VERSION
+- uses '.then()' to chain promises
 
 Created by Nicolette Mercado
 
