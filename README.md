@@ -19,8 +19,17 @@ Tech used: JavaScript, VS Code
 ## CALLBACK VERSION
 - uses 'setTimeout' and callbacks
 
+FILE: callbackVersion.js
+
 ## PROMISES VERSION
 - uses '.then()' to chain promises
+
+FILE: promiseVersion.js
+
+## ASYNC/AWAIT VERSION
+- uses 'async' and 'await' 
+
+FILE: asyncAwaitVersion.js
 
 Created by Nicolette Mercado
 
